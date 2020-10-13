@@ -9,7 +9,7 @@ window.scissors = {
     settings: {
         ISOLATION_PERIOD: 14,
         SYMPTOMATIC_AWARE_PERIOD: 4,
-        SYMPTOMATIC_UNAWARE_PERIOD: 10,
+        SYMPTOMATIC_UNAWARE_PERIOD: 7,
         ASYMPTOMATIC_PERIOD: 7,
         DATE_HUMAN_FMT: 'dddd LL',
         DATEPICKER_FMT: "yyyy-MM-dd",
